@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 80px;
+}
+input, button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+#weather {
+    margin-top: 40px;
+    color:aliceblue;
+    font-size:40px;
+}
+#image {
+    background-image: url('image.avif');
+    background-size: cover; 
+    background-position: center; 
+    width: 1000px; 
+    height: 100vh; 
+}
+#Heading
+{
+    color:aliceblue;
+}
